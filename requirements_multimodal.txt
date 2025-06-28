@@ -1,0 +1,8 @@
+opencv-python
+pillow
+transformers
+torch
+gradio
+scikit-learn
+numpy
+requests 
