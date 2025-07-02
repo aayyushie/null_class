@@ -1,5 +1,0 @@
-gradio
-google-generativeai
-pillow
-numpy
-python-dotenv
